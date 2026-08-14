@@ -19,3 +19,19 @@ const courses = [
 ];
 
 console.log(calculateGPA(courses));
+
+function saveCourses(courses) {
+  localStorage.setItem('courses', JSON.stringify(courses));
+}
+
+function loadCourses() {
+  return JSON.parse(localStorage.getItem('courses')) || [];
+}
+
+// Example usage
+const courses = [
+  { name: 'Math', grade: 4.0, units: 3 }
+];
+
+saveCourses(courses);
+console.log(loadCourses());
