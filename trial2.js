@@ -35,3 +35,9 @@ const courses = [
 
 saveCourses(courses);
 console.log(loadCourses());
+
+
+const courses = loadCourses();
+
+document.getElementById('courseCount').textContent = courses.length;
+document.getElementById('gpaValue').textContent = calculateGPA(courses);
