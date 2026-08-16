@@ -2,13 +2,13 @@
 
 **Student Name:** Lornah-Sylvia Waithera Ndirima
 
-**Admission Number:** 138141
+**Admission Number:** 162414
 
 **Class Team:** GROUP 4E
 
-**Repository:** `academic-tracker-138141`
+**Repository:** `academic-tracker-162414`
 
-**GitHub Pages URL:** `https://is-project-2026.github.io/academic-tracker-138141/`
+**GitHub Pages URL:** `https://is-project-2026.github.io/academic-tracker-162414/`
 
 ---
 
@@ -63,6 +63,8 @@ All development work was performed on **feature branches**. No direct developmen
 ### Conventional Commit Types Used
 
 * `feat`
+
+Others that could be used:
 * `style`
 * `fix`
 * `docs`
@@ -114,11 +116,7 @@ fix(merge): resolve heading merge conflict
 * **Branch:** `main`
 * **Folder:** `/ (root)`
 
-### Live URL
 
-```text
-https://is-project-2026.github.io/academic-tracker-138141/
-```
 
 ---
 
@@ -128,7 +126,6 @@ https://is-project-2026.github.io/academic-tracker-138141/
 | ------------------------------------- | -------------------------------------------------------------------- |
 | Understanding branch protection rules | Enabled PR-only merges on `main`                                     |
 | Simulating a merge conflict           | Used two branches editing the same line                              |
-| Linking repository to GROUP 4E        | Contacted team maintainer because student permissions were read-only |
 
 ---
 
@@ -144,22 +141,6 @@ Through this assignment I learned:
 
 ---
 
-## 10. Repository Structure
-
-```text
-academic-tracker-138141/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── app.js
-├── evidence/
-│   └── conflict_evidence.png
-├── README.md
-└── submission.md
-```
-
----
 
 ## 11. Final Checklist
 
